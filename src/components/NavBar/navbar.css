@@ -1,0 +1,12 @@
+.navbar-brand {
+    color: rgba(237, 237, 237, 0.9) !important;
+}
+
+.me-auto {
+    text-align: center;
+    margin: 0px auto;
+}
+
+.nav-link {
+    color: rgba(239, 239, 239, 0.55) !important;
+}
